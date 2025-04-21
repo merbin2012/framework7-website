@@ -1,4 +1,28 @@
 ##########
+- iconUrl: "#{cdn}/i/showcase/allmathsformulas-icon.png"
+  iconRounded: false
+  title: "All Maths Formulas App"
+  author:
+    url: https://htmlcodeplay.com
+    name: Codeplay
+  links:
+    appstore: https://apps.apple.com/us/app/all-maths-formulas-app/id1668966787?platform=iphone
+    googleplay: https://play.google.com/store/apps/details?id=maths.formulas
+    website: https://htmlcodeplay.com
+  description: |
+    All Maths Formulas App is a comprehensive guide that brings together all essential math formulas in one place. Ideal for students, teachers, and professionals, this app covers formulas from algebra, geometry, trigonometry, calculus, and more — making it an essential reference tool for quick access anytime, anywhere.
+  features:
+  - Covers Algebra, Geometry, Trigonometry, Calculus, and Statistics
+  - Simple and easy-to-use interface
+  - Works offline — no internet required
+  - Suitable for students and professionals
+  screenshots:
+  - "#{cdn}/i/showcase/allmathsformulas-01.png"
+  - "#{cdn}/i/showcase/allmathsformulas-02.png"
+  - "#{cdn}/i/showcase/allmathsformulas-03.png"
+  - "#{cdn}/i/showcase/allmathsformulas-04.png"
+
+##########
 - iconUrl: "#{cdn}/i/showcase/magicace-icon.png"
   iconRounded: false
   title: "Magic Ace - Magic Prop App"
